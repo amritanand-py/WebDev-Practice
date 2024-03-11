@@ -2,12 +2,6 @@
     padding: 0;
     margin: 0;
 }
-#div1{
-    height: 100px;
-    width: 100px;
-    background-color: green;
-    border-radius: 50%;
-}
 #navbar{
     
     background-color: black;
@@ -27,4 +21,32 @@ a{
     color: white;
     margin-right: 200px;
     text-decoration: none;
+}
+
+.content-divs{
+    margin-top: 2px;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    background-color:rgba(0,255,0,0.5);
+}
+#box2{
+    background-color:rgba(010,253,300,0.5);
+}
+#box3{
+    background-color:rgba(200,255,010,0.5);
+}
+#content{
+    height: 600px;
+}
+
+footer{
+    color: white;
+
+    text-align: center;
+    background-color: black;
 }
