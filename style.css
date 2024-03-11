@@ -1,10 +1,30 @@
-h1{
-    color: aquamarine;
+*{
+    padding: 0;
+    margin: 0;
 }
-#Outer{
-    background-color: aquamarine;
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#navbar{
+    
+    background-color: black;
+    height: 60px;
+    
 }
 
-#Inner{
-    background-color: yellowgreen;
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+button{
+    background-color: #f08804;
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
 }
