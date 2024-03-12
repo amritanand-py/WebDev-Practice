@@ -41,7 +41,7 @@ a{
     background-color:rgba(200,255,010,0.5);
 }
 #content{
-    height: 600px;
+    height: 350px;
 }
 
 footer{
@@ -49,4 +49,15 @@ footer{
 
     text-align: center;
     background-color: black;
+    height: 100px;
+}
+
+#Q5-Box{
+    width: 100px;
+    height: 100px;
+    background-image: url("Designer.png");
+    background-size: cover;
+    position: fixed;
+    top: 30px;
+    right:20px
 }
